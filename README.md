@@ -58,27 +58,6 @@ Category: **Integration**
 
 ---
 
-## 🧠 Understanding “Human Hints”
-
-Human hints are **descriptive labels**, not identities.
-
-They summarize *observed behavior only*.
-
-Examples:
-- **stationary environmental sensor**  
-→ static MAC + temperature/humidity capabilities
-- **personal mobile device (rotating id)**  
-→ rotating MAC + intermittent presence
-- **beacon / tracker-style device**  
-→ iBeacon-style advertising
-
-Hints are:
-- Optional
-- Read-only
-- Non-invasive
-- Designed for human understanding
-
----
 
 ## 🧪 Recommended Workflow
 
