@@ -1,6 +1,0 @@
-{
-  "name": "BLE Observer",
-  "content_in_root": false,
-  "domains": ["ble_observer"],
-  "homeassistant": "2024.1.0"
-}
